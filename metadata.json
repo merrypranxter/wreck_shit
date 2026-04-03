@@ -1,0 +1,5 @@
+{
+  "name": "GLITCH SCRAMBLER",
+  "description": "A browser-based video scrambler that chops videos into tiny segments and randomizes them for iterative chaos.",
+  "requestFramePermissions": []
+}
