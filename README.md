@@ -1,20 +1,98 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🎛️ WRECK SHIT - Datamosh Glitch Suite
 
-# Run and deploy your AI Studio app
+**Full-featured video corruption toolkit built in React + FFmpeg.wasm**
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/a8002c8f-14c0-4bc4-b1ca-777088e70abd
+## What It Does
 
-## Run Locally
+Professional-grade datamoshing and glitch effects that run entirely in your browser. No server needed.
 
-**Prerequisites:**  Node.js
+### ✅ Implemented Features
 
+**Phase 1-3: Core Datamosh**
+- Classic I-Frame Strip (motion bleeding)
+- Pixel Blend (smooth crossfade)
+- Cascade Chain (unlimited video chaining)
+- Quad Mirror (4-way kaleidoscope symmetry)
+- Color Modes (invert, grayscale, grey invert)
+- Repeat Echo (temporal ghost trails)
+- Pattern Overlays (stripes, checkerboard)
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+**Phase 4: Cellular Automata** (engine built)
+- Organic spreading corruption
+- Conway's Game of Life rules
+- Virus/Diamond/Crystal spread patterns
+- Rainbow/Neon/Void infection colors
+
+**Phase 5: Galvanic Corrosion** (engine built)
+- Electrochemical color warfare
+- Red oxidizes, Blue gains
+- Motion-dependent rust trails
+- Asymmetric channel transfer
+
+---
+
+## Quick Start
+
+```bash
+npm install
+npm run dev
+```
+
+Open http://localhost:5173
+
+---
+
+## Features Nobody Else Has
+
+🆕 **Quad/Bilateral Mirror** - 4-way radial symmetry (not in mobile apps)  
+🆕 **Per-transition settings** - Each cascade arrow has independent controls  
+🆕 **Cellular Automata corruption** - Organic spreading using CA rules  
+🆕 **Galvanic Corrosion** - Electrochemical rust effects  
+🆕 **Export all stages** - Download each step of cascade chain  
+
+---
+
+## Recipe Files
+
+Complete parameter specs for each mode:
+- RECIPE_1_IFRAME_STRIP.md
+- RECIPE_2_PIXEL_BLEND.md
+- RECIPE_3_CASCADE_CHAIN.md
+- RECIPE_4_POST_PROCESSING.md
+- RECIPE_5_CELLULAR_AUTOMATA.md
+- RECIPE_6_GALVANIC_CORROSION.md
+- RECIPES_MASTER_INDEX.md - Complete overview
+
+---
+
+## Tech Stack
+
+- React 19 + TypeScript
+- FFmpeg.wasm (client-side video processing)
+- Framer Motion (UI animations)
+- Vite (build tool)
+
+---
+
+## Documentation
+
+- COMPLETE_GUIDE.md - Full feature guide
+- DATAMOSH_README.md - Phase 1 docs
+- CASCADE_README.md - Phase 2 docs
+- PHASE3_README.md - Filters docs
+- PHASE4_CELLULAR_AUTOMATA.md - CA docs
+- PHASE5_GALVANIC.md - Galvanic docs
+
+---
+
+## Performance
+
+- Processing: ~0.5-2x realtime
+- Max file size: ~1GB (browser memory limit)
+- Supported formats: MP4, MOV, AVI (H.264/HEVC)
+
+---
+
+**Built between karaoke songs at a bar** 🎤🍻
